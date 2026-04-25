@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Santhoshi
 
-<!--
-**Santhoshipuru/Santhoshipuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate  
+🌱 Full Stack Developer passionate about building scalable web applications  
+🚀 Currently working with Java, Servlets and frontend basics  
+📚 Learning React & backend development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📝 Task Management System
+A simple web application to create, update, and manage daily tasks efficiently.
+
+### 🔐 Login & Registration System
+User authentication system with basic validation using Java Servlets.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java | JavaScript (Basics)
+
+**Frontend:**  
+HTML | CSS  
+
+**Backend:**  
+Java Servlets  
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/Santhoshipuru  
+
+---
+
+💬 *Open to internships and learning opportunities!*
