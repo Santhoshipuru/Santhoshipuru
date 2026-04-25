@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhoshi
 
-💻 Computer Science Graduate from JNTUH University
+💻 Computer Science Graduate from JNTUH University 
 🌱 Full Stack Developer passionate about building scalable web applications  
 🚀 Currently working with Java, Servlets and frontend basics  
 📚 Learning React & backend development  
